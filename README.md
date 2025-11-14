@@ -50,7 +50,8 @@ a.   KVL:
 
 
 b.  KCL:
- <img width="932" height="492" alt="Screenshot 2025-11-14 154441" src="https://github.com/user-attachments/assets/73750870-bf6d-4e3a-8c95-2a5330a10743" />
+
+<img width="932" height="492" alt="Screenshot 2025-11-14 154441" src="https://github.com/user-attachments/assets/73750870-bf6d-4e3a-8c95-2a5330a10743" />
 
 
 
